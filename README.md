@@ -2,7 +2,7 @@
 
 # 🏔️ Inteligencia Artificial Generativa en Snowflake
 
-Este repositorio contiene el material del curso de Udemy (Inteligencia Artificial Generativa en Snowflake)[https://www.udemy.com/course/draft/6635607/?referralCode=56965D585F4597EBB062]. Este es un curso completo sobre las capacidades de inteligencia artificial de Snowflake, cubriendo desde las funciones básicas de Cortex AI hasta la implementación de aplicaciones avanzadas con Document AI y búsqueda semántica.
+Este repositorio contiene el material del curso de Udemy [Inteligencia Artificial Generativa en Snowflake](https://www.udemy.com/course/draft/6635607/?referralCode=56965D585F4597EBB062). Este es un curso completo sobre las capacidades de inteligencia artificial de Snowflake, cubriendo desde las funciones básicas de Cortex AI hasta la implementación de aplicaciones avanzadas con Document AI y búsqueda semántica.
 
 ## 📚 Contenido del Curso
 
